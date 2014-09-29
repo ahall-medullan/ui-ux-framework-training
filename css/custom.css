@@ -1,0 +1,14 @@
+.start-template{
+	padding: 40px 15px;
+}
+
+
+.m-font-type-serif {
+	font-family: 'Old Standard TT', serif;
+	font-weight: 400;
+}
+
+.demo-user {
+	width: 140px; 
+	height: 140px;
+}
