@@ -1,14 +1,32 @@
-.start-template{
-	padding: 40px 15px;
+.solid-edge {
+	border-top-width: 2px;
+	margin: 0px 0px;
 }
 
-
-.m-font-type-serif {
-	font-family: 'Old Standard TT', serif;
-	font-weight: 400;
+.thick-margin {
+	margin: 15px 0px;
 }
 
-.demo-user {
-	width: 140px; 
-	height: 140px;
+.un-padded{
+	padding-left: 20px;
+}
+
+.menu-shadow {
+  -moz-box-shadow:    0px 2px 2px #ccc;
+  -webkit-box-shadow: 0px 2px 2px #ccc;
+  box-shadow:         0px 2px 2px #ccc;
+}
+
+.logo {
+	max-height: 40px;
+}
+
+.ceo {
+	background: url('../images/ceo.jpg');
+	background-repeat: no-repeat;
+	background-size: 200% 145%;
+	background-position: 45% top;
+	border: solid 2px #ccc;
+	width: 200px;
+	height: 200px;
 }
